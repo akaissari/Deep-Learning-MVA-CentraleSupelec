@@ -1,4 +1,4 @@
-# Deep-Learning-Assignments
+# Deep-Learning-Assignments ( MVA-CentraleSupelec )
 
 #### - Mini project on Deep Reinforcement Learning
 
